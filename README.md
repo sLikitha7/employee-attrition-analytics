@@ -23,7 +23,8 @@ This project explores **employee attrition trends** using **Tableau** to analyze
 ##  Files Included  
 -  **Attrition Analytics Dashboard.twbx** – Tableau Packaged Workbook.  
 -  **Attrition Rate Analytics PPT.pptx** – Project presentation.  
--  **Attrition dashboard screenshots** – Visual snapshots.  
+-  **Attrition dashboard screenshots** – Visual snapshots.
+-  **HR Data.xlsx** – Employee attrition dataset for analysis.  
 -  **README.md** – Project documentation.  
 
 ## 🔍 Future Enhancements  
